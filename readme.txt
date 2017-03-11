@@ -11,3 +11,5 @@ Creating a new branch is quick
 Creating a new branch is quick & simple
 
 make dev1 branch
+
+make dev2 branch
